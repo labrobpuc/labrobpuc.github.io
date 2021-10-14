@@ -12,17 +12,15 @@ permalink: /people/
 
 e-mail: [meggi@puc-rio.br](mailto:meggi@puc-rio.br)
 
-# Students
+# PhD Students
 
-## PhD 
+## **Anna Rafaela Silva Ferreira**
 
-- **Anna Rafaela Silva Ferreira**
+## **Diego Gabriel Gomes Rosa**
 
-- **Diego Gabriel Gomes Rosa**
+## **Felipe Rebelo Lopes**
 
-- **Felipe Rebelo Lopes**
-
-- **João Carlos Virgolino Soares**
+## **João Carlos Virgolino Soares**
 
 email: [virgolino@puc-rio.br](mailto:virgolino@puc-rio.br)
 
