@@ -6,11 +6,11 @@ permalink: /people/
 
 # Prof. Meggiolaro
 
-Prof. Marco Antonio Meggiolaro is an Associate Professor at the Mechanical Engineering Department of the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). He graduated in Mechanical Engineering at PUC-Rio in 1994, having obtained his M.Sc. in this same institution in 1996. He got his Ph.D. in Mechanical Engineering at the Massachusetts Institute of Technology (MIT) in 2000. Prof. Meggiolaro’s main research areas are Robotics and Structural Integrity, being the author or co-author of more than 380 published scientific works.
+<div style="text-align: right"> Prof. Marco Antonio Meggiolaro is an Associate Professor at the Mechanical Engineering Department of the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). He graduated in Mechanical Engineering at PUC-Rio in 1994, having obtained his M.Sc. in this same institution in 1996. He got his Ph.D. in Mechanical Engineering at the Massachusetts Institute of Technology (MIT) in 2000. Prof. Meggiolaro’s main research areas are Robotics and Structural Integrity, being the author or co-author of more than 380 published scientific works. </div>
 
-([Lattes](http://meggi.usuarios.rdc.puc-rio.br/paper/R78_JIRS21_Crowd_SLAM.pdf)) ([CV](http://meggi.usuarios.rdc.puc-rio.br/meggi.html)) 
+([Lattes](http://lattes.cnpq.br/1259500926303809)) ([CV](http://meggi.usuarios.rdc.puc-rio.br/meggi.html)) 
 
-[meggi@puc-rio.br](mailto:meggi@puc-rio.br)
+e-mail: [meggi@puc-rio.br](mailto:meggi@puc-rio.br)
 
 # Students
 
@@ -23,7 +23,8 @@ Prof. Marco Antonio Meggiolaro is an Associate Professor at the Mechanical Engin
 - **Felipe Rebelo Lopes**
 
 - **João Carlos Virgolino Soares**
-[virgolino@puc-rio.br](mailto:virgolino@puc-rio.br)
+
+email: [virgolino@puc-rio.br](mailto:virgolino@puc-rio.br)
 
 ## MSc 
 
