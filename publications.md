@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-Some information about you!
-
 ### 2021
 
 Crowd-SLAM: Visual SLAM Towards Crowded Environments using
