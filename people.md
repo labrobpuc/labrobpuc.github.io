@@ -17,43 +17,51 @@ e-mail: [meggi@puc-rio.br](mailto:meggi@puc-rio.br)
 ## **Anna Rafaela Silva Ferreira**
 
 e-mail: [](mailto:)
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
+
+([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Anna-Rafaela-Ferreira)) ([Lattes](http://lattes.cnpq.br/4481159249601215))
 
 ## **Diego Gabriel Gomes Rosa**
 
 e-mail: [](mailto:)
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
+
+([GitHub](https://github.com/DiegoGGRosa)) ([ResearchGate](https://www.researchgate.net/profile/Diego-Rosa-4)) ([Lattes](http://lattes.cnpq.br/8893208461166213))
 
 ## **Felipe Rebelo Lopes**
 
 e-mail: [](mailto:)
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
+
+([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003))
 
 ## **João Carlos Virgolino Soares**
 
-e-mail: [](mailto:)
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
+e-mail: [virgolino@puc.rio.br](mailto:virgolino@puc-rio.br)
+
+([GitHub](https://github.com/virgolinosoares)) ([ResearchGate](https://www.researchgate.net/profile/Joao-Soares-4)) ([Lattes](http://lattes.cnpq.br/1499104469066618))
 
 # MSc Students
 
 ## **Fabio Pinheiro Cardoso**
 
 e-mail: [](mailto:)
+
 ([GitHub]()) ([ResearchGate]()) ([Lattes]())
 
 ## **Gabriel Fischer Abati**
 
 e-mail: [](mailto:)
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
+
+([GitHub](https://github.com/Master-Fischer)) ([ResearchGate]()) ([Lattes]())
 
 ## **Leonardo Garcia Moraes**
 
 e-mail: [](mailto:)
+
 ([GitHub]()) ([ResearchGate]()) ([Lattes]())
 
 ## **Matheus Rodrigues Goebel**
 
 e-mail: [](mailto:)
+
 ([GitHub]()) ([ResearchGate]()) ([Lattes]())
 
 # Undergraduate
@@ -61,21 +69,25 @@ e-mail: [](mailto:)
 ## **Bruno Fonseca Faria Candido**
 
 e-mail: [](mailto:)
+
 ([GitHub]()) ([ResearchGate]()) ([Lattes]())
 
 ## **Emilly Alves da Silva de Oliveira**
 
 e-mail: [](mailto:)
+
 ([GitHub]()) ([ResearchGate]()) ([Lattes]())
 
 ## **Matheus Fernandes Dutra**
 
 e-mail: [](mailto:)
+
 ([GitHub]()) ([ResearchGate]()) ([Lattes]())
 
 ## **Paulo Teixeira Vale de Carvalho**
 
 e-mail: [](mailto:)
+
 ([GitHub]()) ([ResearchGate]()) ([Lattes]())
 
 # Alumni
