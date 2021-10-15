@@ -20,9 +20,11 @@ Research Interests:
 - 
 - 
 
-e-mail: [](mailto:)
+e-mail: [rafaela.anna@aluno.puc-rio.br
+](mailto:rafaela.anna@aluno.puc-rio.br
+)
 
-([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Anna-Rafaela-Ferreira)) ([Lattes](http://lattes.cnpq.br/4481159249601215))
+([GitHub](https://github.com/annarafaela)) ([ResearchGate](https://www.researchgate.net/profile/Anna-Rafaela-Ferreira)) ([Lattes](http://lattes.cnpq.br/4481159249601215))
 
 ## **Diego Gabriel Gomes Rosa**
 
@@ -87,10 +89,10 @@ e-mail: [fabiopinheirocardoso@aluno.puc-rio.br](mailto:fabiopinheirocardoso@alun
 ## **Gabriel Fischer Abati**
 
 Research Interests: 
-- 
-- 
+- Simultaneous Localization and Mapping
+- Machine Learning
 
-e-mail: [](mailto:)
+e-mail: [fischerabati@gmail.com](mailto:fischerabati@gmail.com)
 
 ([GitHub](https://github.com/Master-Fischer)) ([ResearchGate](https://www.researchgate.net/profile/Gabriel-Fischer-Abati)) ([Lattes]())
 
