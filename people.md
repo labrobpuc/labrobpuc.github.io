@@ -55,6 +55,11 @@ e-mail: [](mailto:)
 </div>
 
 
+| Command | Description |
+| --- | --- |
+| `git diff` | <img height="60px" class="center-block" src="{{ site.baseurl }}/images/labrob.png"> |
+
+
 
 ## **João Carlos Virgolino Soares**
 
