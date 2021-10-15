@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2021
 
-<div style="text-align: justify"> Soares, J.C.V., Gattass, M., Meggiolaro, M.A., “Crowd-SLAM: Visual SLAM Towards Crowded Environments using Object Detection", Journal of Intelligent and Robotic Systems, v.102, n.50, 2021.</div> ([PDF](http://meggi.usuarios.rdc.puc-rio.br/paper/R78_JIRS21_Crowd_SLAM.pdf)) 
+<div style="text-align: justify"> Soares, J.C.V., Gattass, M., Meggiolaro, M.A., “Crowd-SLAM: Visual SLAM Towards Crowded Environments using Object Detection", Journal of Intelligent and Robotic Systems, v.102, n.50, 2021.<div>([PDF](http://meggi.usuarios.rdc.puc-rio.br/paper/R78_JIRS21_Crowd_SLAM.pdf)) 
 
 ### 2020
 
