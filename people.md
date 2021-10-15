@@ -41,7 +41,8 @@ Research Interests:
 - Series Elastic Actuator
 - Rehabilitation robotics
 
-e-mail: [](mailto:)
+e-mail: [lopesfr@aluno.puc-rio.br](mailto:lopesfr@aluno.puc-rio.br)
+
 ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003)) 
 
 
