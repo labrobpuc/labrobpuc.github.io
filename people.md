@@ -23,7 +23,7 @@ e-mail: [](mailto:)
 ## **Diego Gabriel Gomes Rosa**
 
 <p align="center">
-  <img src="{ site.baseurl }}/images/felipe.jpeg" width="350" title="hover text">
+  <img src="{{ site.baseurl }}/images/felipe.jpeg" width="350" title="hover text">
 </p>
 
 e-mail: [](mailto:)
