@@ -24,25 +24,20 @@ e-mail: [](mailto:)
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
+<th> </th>
+<th> </th>
 </tr>
 <tr>
 <td>
 
-```
 e-mail: [](mailto:)
 
 ([GitHub](https://github.com/DiegoGGRosa)) ([ResearchGate](https://www.researchgate.net/profile/Diego-Rosa-4)) ([Lattes](http://lattes.cnpq.br/8893208461166213))
 
-```
-
 </td>
 <td>
 
-```
 <img height="60px" class="center-block" src="{{ site.baseurl }}/images/labrob.png">
-```
 
 </td>
 </tr>
