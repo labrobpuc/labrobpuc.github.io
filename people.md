@@ -22,6 +22,9 @@ e-mail: [](mailto:)
 
 ## **Diego Gabriel Gomes Rosa**
 
+<p align="center">
+  <img src="{ site.baseurl }}/images/felipe.jpeg" width="350" title="hover text">
+</p>
 
 e-mail: [](mailto:)
   
@@ -32,6 +35,8 @@ e-mail: [](mailto:)
 ## **Felipe Rebelo Lopes**
 
 ![_config.yml]({{ site.baseurl }}/images/felipe.jpeg)
+
+
   
 
 Research Interests: 
