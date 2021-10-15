@@ -17,7 +17,7 @@ e-mail: [meggi@puc-rio.br](mailto:meggi@puc-rio.br)
 ## **Anna Rafaela Silva Ferreira**
 
 <p align="left">
-  <img src="{{ site.baseurl }}/images/anna.jpg" width="300" title="hover text">
+  <img src="{{ site.baseurl }}/images/anna.JPG" width="300" title="hover text">
 </p>
 
 Research Interests: 
