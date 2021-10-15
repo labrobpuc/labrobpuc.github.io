@@ -37,7 +37,7 @@ e-mail: [](mailto:)
   </div>
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="{{ site.baseurl }}/images/labrob.png">
+  <img height="60px" class="center-block" src="{{ site.baseurl }}/images/labrob.png">
   </div>
 </div>
 
