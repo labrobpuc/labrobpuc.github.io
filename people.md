@@ -27,14 +27,14 @@ e-mail: [](mailto:)
 
 e-mail: [](mailto:)
   
-<img height="60px" class="center-block" src="{{ site.baseurl }}/images/labrob.png">
 
 ([GitHub](https://github.com/DiegoGGRosa)) ([ResearchGate](https://www.researchgate.net/profile/Diego-Rosa-4)) ([Lattes](http://lattes.cnpq.br/8893208461166213))
 
 
 ## **Felipe Rebelo Lopes**
 
-<img height="60px" class="center-block" src="{{ site.baseurl }}/images/felipe.jpeg">
+![_config.yml]({{ site.baseurl }}/images/felipe.jpeg)
+  
 
 Research Interests: 
 - Series Elastic Actuator
