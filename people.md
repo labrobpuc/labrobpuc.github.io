@@ -23,12 +23,7 @@ e-mail: [](mailto:)
 ## **Diego Gabriel Gomes Rosa**
 
 <table>
-<tr>
-<th> </th>
-<th> </th>
-</tr>
-<tr>
-<td>
+
 
 e-mail: [](mailto:)
 
