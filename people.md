@@ -46,7 +46,7 @@ e-mail: [](mailto:)
 Series Elastic Actuator
 Rehabilitation robotics
 e-mail: [](mailto:)
-([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003)) |  |  <img height="60px" class="center-block" src="{{ site.baseurl }}/images/labrob.png"> |
+([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003)) |  |  <img height="60px" class="center-block" src="{{ site.baseurl }}/images/felipe.jpeg"> |
 
 
 
