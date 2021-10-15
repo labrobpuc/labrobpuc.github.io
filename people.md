@@ -22,30 +22,27 @@ e-mail: [](mailto:)
 
 ## **Diego Gabriel Gomes Rosa**
 
-<p align="center">
-  <img src="{{ site.baseurl }}/images/felipe.jpeg" width="350" title="hover text">
-</p>
+<p align="left">
+  <img src="{{ site.baseurl }}/images/diego.jpeg" width="350" title="hover text">
+</p> 
 
-e-mail: [](mailto:)
-  
+e-mail: [](mailto:) 
 
 ([GitHub](https://github.com/DiegoGGRosa)) ([ResearchGate](https://www.researchgate.net/profile/Diego-Rosa-4)) ([Lattes](http://lattes.cnpq.br/8893208461166213))
 
 
 ## **Felipe Rebelo Lopes**
 
-![_config.yml]({{ site.baseurl }}/images/felipe.jpeg)
-
-
-  
+<p align="left">
+  <img src="{{ site.baseurl }}/images/felipe.jpeg" width="350" title="hover text">
+</p> 
 
 Research Interests: 
 - Series Elastic Actuator
 - Rehabilitation robotics
 
 e-mail: [](mailto:)
-([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003)) 
-
+([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003)) 
 
 
 ## **João Carlos Virgolino Soares**
