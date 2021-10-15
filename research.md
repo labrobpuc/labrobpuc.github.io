@@ -4,12 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-# Model Predictive Control
+## Model Predictive Control
 
-# Series Elastic Actuator
+## Series Elastic Actuator
 
-# Torque Optimization
+## Torque Optimization
 
-# Visual SLAM in Dynamic Environments
+## Visual SLAM in Dynamic Environments
 
 
