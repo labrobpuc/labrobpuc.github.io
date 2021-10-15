@@ -16,9 +16,13 @@ e-mail: [meggi@puc-rio.br](mailto:meggi@puc-rio.br)
 
 ## **Anna Rafaela Silva Ferreira**
 
+<p align="left">
+  <img src="{{ site.baseurl }}/images/anna.jpg" width="300" title="hover text">
+</p>
+
 Research Interests: 
-- 
-- 
+- Robot Motion Planning
+- Model Predictive Control
 
 e-mail: [rafaela.anna@aluno.puc-rio.br
 ](mailto:rafaela.anna@aluno.puc-rio.br
@@ -33,10 +37,10 @@ e-mail: [rafaela.anna@aluno.puc-rio.br
 </p> 
 
 Research Interests: 
-- 
-- 
+- Design and control of mobile robots
+- Navigation in challenging terrain
 
-e-mail: [](mailto:) 
+e-mail: [diegoggrosa@gmail.com](mailto:diegoggrosa@gmail.com) 
 
 ([GitHub](https://github.com/DiegoGGRosa)) ([ResearchGate](https://www.researchgate.net/profile/Diego-Rosa-4)) ([Lattes](http://lattes.cnpq.br/8893208461166213))
 
