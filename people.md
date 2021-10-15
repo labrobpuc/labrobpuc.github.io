@@ -56,6 +56,10 @@ e-mail: [lopesfr@aluno.puc-rio.br](mailto:lopesfr@aluno.puc-rio.br)
 
 ## **João Carlos Virgolino Soares**
 
+<p align="left">
+  <img src="{{ site.baseurl }}/images/joao.png" width="300" title="hover text">
+</p> 
+
 Research Interests: 
 - Visual Simultaneous Localization and Mapping
 - Autonomous Navigation
