@@ -22,8 +22,6 @@ e-mail: [](mailto:)
 
 ## **Diego Gabriel Gomes Rosa**
 
-<table>
-
 
 e-mail: [](mailto:)
   
