@@ -7,7 +7,7 @@ permalink: /robots/
 # iRobot Platform
 
 <p align="left">
-  <img src="{{ site.baseurl }}/images/irobot.png" width="350" title="hover text">
+  <img src="{{ site.baseurl }}/images/irobot.jpeg" width="350" title="hover text">
 </p> 
 
 # Mecanum
