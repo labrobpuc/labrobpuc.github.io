@@ -73,12 +73,12 @@ e-mail: [virgolino@puc.rio.br](mailto:virgolino@puc-rio.br)
 </p> 
 
 Research Interests: 
-- 
-- 
+- Unmanned Aerial Vehicles
+- Applied Mechanics and Fabrication
 
-e-mail: [](mailto:)
+e-mail: [fabiopinheirocardoso@aluno.puc-rio.br](mailto:fabiopinheirocardoso@aluno.puc-rio.br)
 
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
+([ResearchGate](https://www.researchgate.net/profile/Fabio-Cardoso-10)) ([Lattes](http://lattes.cnpq.br/6757505363287356))
 
 ## **Gabriel Fischer Abati**
 
@@ -112,7 +112,7 @@ Research Interests:
 
 e-mail: [matheus.goebel@aluno.puc-rio.br](mailto:matheus.goebel@aluno.puc-rio.br)
 
-([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Matheus-Goebel)) ([Lattes](http://lattes.cnpq.br/0060793244250165))
+([ResearchGate](https://www.researchgate.net/profile/Matheus-Goebel)) ([Lattes](http://lattes.cnpq.br/0060793244250165))
 
 # Undergraduate
 
