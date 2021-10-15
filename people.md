@@ -42,24 +42,11 @@ e-mail: [](mailto:)
 ## **Felipe Rebelo Lopes**
 
 
-<div class="row">
-  <div class="col-md-4" markdown="1">
-  e-mail: [](mailto:)
-
-([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003))
-    
-  </div>
-  <div class="col-md-8" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="60px" class="center-block" src="{{ site.baseurl }}/images/labrob.png">
-  </div>
-</div>
-
-
-
-| e-mail: [](mailto:)
-
-([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003)) | <img height="60px" class="center-block" src="{{ site.baseurl }}/images/labrob.png"> |
+|Research Interests: 
+Series Elastic Actuator
+Rehabilitation robotics
+e-mail: [](mailto:)
+([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003)) |  |  <img height="60px" class="center-block" src="{{ site.baseurl }}/images/labrob.png"> |
 
 
 
