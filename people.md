@@ -16,6 +16,10 @@ e-mail: [meggi@puc-rio.br](mailto:meggi@puc-rio.br)
 
 ## **Anna Rafaela Silva Ferreira**
 
+Research Interests: 
+- 
+- 
+
 e-mail: [](mailto:)
 
 ([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Anna-Rafaela-Ferreira)) ([Lattes](http://lattes.cnpq.br/4481159249601215))
@@ -23,8 +27,12 @@ e-mail: [](mailto:)
 ## **Diego Gabriel Gomes Rosa**
 
 <p align="left">
-  <img src="{{ site.baseurl }}/images/diego.jpeg" width="350" title="hover text">
+  <img src="{{ site.baseurl }}/images/diego.jpeg" width="300" title="hover text">
 </p> 
+
+Research Interests: 
+- 
+- 
 
 e-mail: [](mailto:) 
 
@@ -34,7 +42,7 @@ e-mail: [](mailto:)
 ## **Felipe Rebelo Lopes**
 
 <p align="left">
-  <img src="{{ site.baseurl }}/images/felipe.jpeg" width="350" title="hover text">
+  <img src="{{ site.baseurl }}/images/felipe.jpeg" width="300" title="hover text">
 </p> 
 
 Research Interests: 
@@ -48,6 +56,10 @@ e-mail: [lopesfr@aluno.puc-rio.br](mailto:lopesfr@aluno.puc-rio.br)
 
 ## **João Carlos Virgolino Soares**
 
+Research Interests: 
+- Visual Simultaneous Localization and Mapping
+- Autonomous Navigation
+
 e-mail: [virgolino@puc.rio.br](mailto:virgolino@puc-rio.br)
 
 ([GitHub](https://github.com/virgolinosoares)) ([ResearchGate](https://www.researchgate.net/profile/Joao-Soares-4)) ([Lattes](http://lattes.cnpq.br/1499104469066618))
@@ -56,17 +68,33 @@ e-mail: [virgolino@puc.rio.br](mailto:virgolino@puc-rio.br)
 
 ## **Fabio Pinheiro Cardoso**
 
+<p align="left">
+  <img src="{{ site.baseurl }}/images/fabio.jpeg" width="300" title="hover text">
+</p> 
+
+Research Interests: 
+- 
+- 
+
 e-mail: [](mailto:)
 
 ([GitHub]()) ([ResearchGate]()) ([Lattes]())
 
 ## **Gabriel Fischer Abati**
 
+Research Interests: 
+- 
+- 
+
 e-mail: [](mailto:)
 
-([GitHub](https://github.com/Master-Fischer)) ([ResearchGate]()) ([Lattes]())
+([GitHub](https://github.com/Master-Fischer)) ([ResearchGate](https://www.researchgate.net/profile/Gabriel-Fischer-Abati)) ([Lattes]())
 
 ## **Leonardo Garcia Moraes**
+
+Research Interests: 
+- 
+- 
 
 e-mail: [](mailto:)
 
@@ -74,9 +102,17 @@ e-mail: [](mailto:)
 
 ## **Matheus Rodrigues Goebel**
 
-e-mail: [](mailto:)
+<p align="left">
+  <img src="{{ site.baseurl }}/images/goebel.jpeg" width="300" title="hover text">
+</p> 
 
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
+Research Interests: 
+- Pneumatic Systems
+- Automation Systems
+
+e-mail: [matheus.goebel@aluno.puc-rio.br](mailto:matheus.goebel@aluno.puc-rio.br)
+
+([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Matheus-Goebel)) ([Lattes](http://lattes.cnpq.br/0060793244250165))
 
 # Undergraduate
 
