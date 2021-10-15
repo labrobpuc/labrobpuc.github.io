@@ -6,12 +6,14 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
       
-      TESTE
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" </a>
+      <p align="left">
+    <img src="{{ site.baseurl }}/images/labrob.jpeg" width="300" title="hover text">
+    </p> 
+      
+      <div style="text-align: justify">
+        The Laboratory of Robotics (LabRob) is focused on the development and control of intelligent  robotic systems.  To reach this objective, our projects require advanced modeling, computational simulations and experimental techniques, integrating mechanical, electrical and control engineering, as well as computer science. Our research topics include: Project and Control of High-performance Manipulators, Project and Control of Autonomous Mobile Robots, Simultaneous Localization and Mapping (SLAM) and Path planning.
+        </div>
+      
     </article>
   {% endfor %}
 </div>
