@@ -43,12 +43,12 @@ e-mail: [](mailto:)
 
 
 <div class="row">
-  <div class="col-md-6" markdown="1">
+  <div class="col-md-4" markdown="1">
   e-mail: [](mailto:)
 
 ([GitHub]()) ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003))
   </div>
-  <div class="col-md-6" markdown="1">
+  <div class="col-md-8" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
   <img height="60px" class="center-block" src="{{ site.baseurl }}/images/labrob.png">
   </div>
