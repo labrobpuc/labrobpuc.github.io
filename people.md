@@ -66,8 +66,7 @@ e-mail: [lopesfr@aluno.puc-rio.br](mailto:lopesfr@aluno.puc-rio.br)
 </p> 
 
 Research Interests: 
-- 
-- 
+- Mobile Robots
 
 e-mail: [gcrodriguez88@gmail.com](mailto:gcrodriguez88@gmail.com)
 
@@ -119,6 +118,10 @@ e-mail: [fabiopinheirocardoso@aluno.puc-rio.br](mailto:fabiopinheirocardoso@alun
 
 ## **Gabriel Fischer Abati**
 
+<p align="left">
+  <img src="{{ site.baseurl }}/images/fischer.jpeg" width="300" title="hover text">
+</p> 
+
 Research Interests: 
 - Simultaneous Localization and Mapping
 - Machine Learning
@@ -129,13 +132,17 @@ e-mail: [fischerabati@gmail.com](mailto:fischerabati@gmail.com)
 
 ## **Leonardo Garcia Moraes**
 
+<p align="left">
+  <img src="{{ site.baseurl }}/images/leonardo.jpeg" width="300" title="hover text">
+</p> 
+
 Research Interests: 
-- 
-- 
+- Legged Robots
+- Robot Manipulation
 
-e-mail: [](mailto:)
+e-mail: [leonardo.garcia@aluno.puc-rio.br](mailto:leonardo.garcia@aluno.puc-rio.br)
 
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
+([ResearchGate](https://www.researchgate.net/profile/Leonardo-Moraes-15)) ([Lattes](http://lattes.cnpq.br/8152225338540624))
 
 ## **Matheus Rodrigues Goebel**
 
