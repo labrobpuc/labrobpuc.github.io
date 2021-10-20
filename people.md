@@ -59,6 +59,33 @@ e-mail: [lopesfr@aluno.puc-rio.br](mailto:lopesfr@aluno.puc-rio.br)
 
 ([ResearchGate](https://www.researchgate.net/profile/Felipe-Lopes-13)) ([Lattes](http://lattes.cnpq.br/5640472305177003)) 
 
+## **Gustavo Carvalho Rodriguez**
+
+<p align="left">
+  <img src="{{ site.baseurl }}/images/gustavo_doutorado.jpeg" width="300" title="hover text">
+</p> 
+
+Research Interests: 
+- 
+- 
+
+e-mail: [gcrodriguez88@gmail.com](mailto:gcrodriguez88@gmail.com)
+
+([ResearchGate](https://www.researchgate.net/profile/Gustavo-Rodriguez-66)) ([Lattes](http://lattes.cnpq.br/2571570570232370)) 
+
+## **Hilton Marques Souza Santana**
+
+<p align="left">
+  <img src="{{ site.baseurl }}/images/hilton.jpeg" width="300" title="hover text">
+</p> 
+
+Research Interests: 
+- Autonomous Mobile Robots
+- Computer Vision
+
+e-mail: [hiltonms@tecgraf.puc-rio.br](mailto:hiltonms@tecgraf.puc-rio.br)
+
+([ResearchGate](https://www.researchgate.net/profile/Hilton-Marques-Santana)) ([Lattes](http://lattes.cnpq.br/1599209233300802)) 
 
 ## **João Carlos Virgolino Soares**
 
