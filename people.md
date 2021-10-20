@@ -133,7 +133,7 @@ e-mail: [fischerabati@gmail.com](mailto:fischerabati@gmail.com)
 ## **Leonardo Garcia Moraes**
 
 <p align="left">
-  <img src="{{ site.baseurl }}/images/leonardo.jpeg" width="300" title="hover text">
+  <img src="{{ site.baseurl }}/images/leo.jpeg" width="300" title="hover text">
 </p> 
 
 Research Interests: 
