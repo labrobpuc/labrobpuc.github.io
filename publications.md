@@ -6,6 +6,10 @@ permalink: /publications/
 
 ### 2021
 
+- Pinto, H.B., Ferreira, A.R.S., Meggiolaro, M.A., Ayala, H.V.H., “Controle Preditivo da Frenagem de um Monociclo em Terreno Desconhecido”. Anais do XV Simpósio Brasileiro de Automação Inteligente (SBAI 2021), Sociedade Brasileira de Automática (SBA), p.978-983, 17-20 de outubro de 2021. ([PDF](https://www.researchgate.net/publication/355411711_Controle_Preditivo_da_Frenagem_de_um_Uniciclo_em_Terreno_Desconhecido)) 
+
+- Goebel, M.R., Fontanella, J.L., Meggiolaro, M.A., Quadrelli, G., “Project, Modeling and Gait Optimization in the Pneumatic Gecko Robot”, Anais do XV Simpósio Brasileiro de Automação Inteligente (SBAI 2021), Sociedade Brasileira de Automática (SBA), p.1136-1141, 17-20 de outubro de 2021. ([PDF](https://www.researchgate.net/publication/355381278_Project_Modeling_and_Gait_Optimization_in_the_Pneumatic_Gecko_Robot)) 
+
 - Soares, J.C.V., Gattass, M., Meggiolaro, M.A., “Crowd-SLAM: Visual SLAM Towards Crowded Environments using Object Detection", Journal of Intelligent and Robotic Systems, v.102, n.50, 2021. ([PDF](http://meggi.usuarios.rdc.puc-rio.br/paper/R78_JIRS21_Crowd_SLAM.pdf)) 
 
 ### 2020
