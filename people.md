@@ -162,27 +162,15 @@ e-mail: [matheus.goebel@aluno.puc-rio.br](mailto:matheus.goebel@aluno.puc-rio.br
 
 ## **Bruno Fonseca Faria Candido**
 
-e-mail: [](mailto:)
-
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
-
 ## **Emilly Alves da Silva de Oliveira**
-
-e-mail: [](mailto:)
-
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
 
 ## **Matheus Fernandes Dutra**
 
-e-mail: [](mailto:)
-
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
-
 ## **Paulo Teixeira Vale de Carvalho**
 
-e-mail: [](mailto:)
+e-mail: [paulotvcarvalho@aluno.puc-rio.br](mailto:paulotvcarvalho@aluno.puc-rio.br)
 
-([GitHub]()) ([ResearchGate]()) ([Lattes]())
+([GitHub](https://github.com/PauloTVC)) ([ResearchGate](https://www.researchgate.net/profile/Paulo-Teixeira-Vale-De-Carvalho)) ([Lattes](http://lattes.cnpq.br/5296491559403457))
 
 # Alumni
 
