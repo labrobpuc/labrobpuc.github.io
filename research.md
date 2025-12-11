@@ -4,12 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-## Model Predictive Control
+## Control for mobile robots
 
-## Series Elastic Actuator
+## Robot design
 
-## Torque Optimization
+## Perception and State estimation
 
-## Visual SLAM in Dynamic Environments
+## Simulatenous Localization and Mapping (SLAM)
 
 
