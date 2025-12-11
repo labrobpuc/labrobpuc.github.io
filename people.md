@@ -34,7 +34,7 @@ e-mail: [pedrolfcb@gmail.com](mailto:pedrolfcb@gmail.com)
 
 ([Lattes](https://lattes.cnpq.br/3500594373431265))
 
-# MSc Students
+# MSc Student
 
 ## **Mathias Moura Keller**
 
