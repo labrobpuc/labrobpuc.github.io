@@ -16,51 +16,15 @@ e-mail: [meggi@puc-rio.br](mailto:meggi@puc-rio.br)
 
 ## **Hilton Marques Souza Santana**
 
-<p align="left">
-  <img src="{{ site.baseurl }}/images/hilton.jpeg" width="300" title="hover text">
-</p> 
-
 Research Interests: 
 - Autonomous Mobile Robots
 - Computer Vision
 
 e-mail: [hiltonms@tecgraf.puc-rio.br](mailto:hiltonms@tecgraf.puc-rio.br)
 
-([ResearchGate](https://www.researchgate.net/profile/Hilton-Marques-Santana)) ([Lattes](http://lattes.cnpq.br/1599209233300802)) 
-
-# MSc Students
-
-## **Mathias Moura Keller**
-
-<p align="left">
-  <img src="{{ site.baseurl }}/images/Mathias.jpeg" width="300" title="hover text">
-</p> 
-
-Research Interests: 
-- Robotic Arm Control
-- Medical Application
-
-e-mail: [mathias7991@hotmail.com](mailto:mathias7991@hotmail.com)
-
-## **Paulo Teixeira V. de Carvalho**
-
-<p align="left">
-  <img src="{{ site.baseurl }}/images/Paulo.jpg" width="300" title="hover text">
-</p> 
-
-Research Interests: 
-- Legged Robots
-- Robot Design
- 
-e-mail: [paulotvcarvalho@aluno.puc-rio.br](mailto:paulotvcarvalho@aluno.puc-rio.br)
-
-([GitHub](https://github.com/PauloTVC)) ([ResearchGate](https://www.researchgate.net/profile/Paulo-Teixeira-Vale-De-Carvalho)) ([Lattes](http://lattes.cnpq.br/5296491559403457))
+([ResearchGate](https://www.researchgate.net/profile/Hilton-Marques-Santana)) ([Lattes](http://lattes.cnpq.br/1599209233300802))
 
 ## **Pedro Leon Fontes Cardoso Bazan**
-
-<p align="left">
-  <img src="{{ site.baseurl }}/images/Pedro_Leon.jpeg" width="300" title="hover text">
-</p> 
 
 Research Interests: 
 - Legged Robots
@@ -70,18 +34,31 @@ e-mail: [pedrolfcb@gmail.com](mailto:pedrolfcb@gmail.com)
 
 ([Lattes](https://lattes.cnpq.br/3500594373431265))
 
+# MSc Students
+
+## **Mathias Moura Keller**
+
+Research Interests: 
+- Robotic Arm Control
+- Medical Application
+
+e-mail: [mathias7991@hotmail.com](mailto:mathias7991@hotmail.com)
+
+
 # Undergraduate
 
 ## Senior Year Project
 
-- **Bruno Fonseca Faria Candido**
+- **Paulo Henrique**
 
-- **Emilly Alves da Silva de Oliveira**
+- **William Jaumouillé**
+
+- **Rômulo Soli**
 
 ## PIBITI
 
-- **Guilherme Fagundes Maximo**
-- **Paulo Henrique Orenbuch**
+- **David**
+- **João Pedro Arbex**
 
 # Collaborators
 
@@ -90,6 +67,8 @@ e-mail: [pedrolfcb@gmail.com](mailto:pedrolfcb@gmail.com)
 - **Gabriel Fischer Abati**
 
 - **João Carlos Virgolino Soares**
+
+- **Paulo Teixeira Vale de Carvalho**
 
 - **Vivian Suzano Medeiros**
 
